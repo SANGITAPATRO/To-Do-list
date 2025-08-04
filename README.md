@@ -47,6 +47,6 @@ All tasks are kept in memory as a Python list while the app runs. The CLI shows 
 todo.py: main Python script
 tasks.txt: auto‑generated text file to store tasks
 README.md: this file
-screenshots/: folder with screenshots of your terminal output
+screenshots/: folder with screenshots of terminal output
 
 Made by Sangita kankal
