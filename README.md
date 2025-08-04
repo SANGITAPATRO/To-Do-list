@@ -18,8 +18,7 @@ A colorful command-line To‑Do List manager that lets you add, view, mark, and 
 
 ```bash
 # Clone the repository
-git clone https://github.com/SangitaPatro/cli-todo-list-python.git
-cd cli-todo-list-python
+git clone https://github.com/SangitaPatro/To-Do-list.git
 
 # Install required libraries
 pip install colorama
